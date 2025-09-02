@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
+#EXTINF:-1 tvg-chno="1"  tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT", France 2
@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",France 3
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:BANDWIDTH=3032655,AVERAGE-BANDWIDTH=2756959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
 https://simulcast-p.ftven.fr/ZXhwPTE3NTY4MjM3Njd+YWNsPSUyZip+aG1hYz1jNWNlNzk2ZDAzNzBkZTVjYWM2ZDE5YWVlMGRmNjAyZTgyZjRhMmYyM2VmNmIxZTk2OWVkNTE5OGE2ZTM0OWVm/simulcast/France_3/hls_fr3/France_3-avc1_2500000=5.m3u8?hdnea=exp=1756802767~acl=%2f*~hmac=a8269124e4d82760bb3f82a6e459cb371972802964117eb38ce090b4ca9edee5
