@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" tvg-country="FR" group-title="FRANCE",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 
-#EXTINF:-1 tvg-chno="1701" tvg-logo="https://picserve.netplus.ch/channels/w9.png" tvg-country="FR" group-title="NETPLUS.TV",1701. W9 [FR]
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://picserve.netplus.ch/channels/w9.png" tvg-country="FR" group-title="NETPLUS.TV",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 
 
