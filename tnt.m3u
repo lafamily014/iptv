@@ -42,7 +42,8 @@ https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/COLqOkoQKNGvEmt9.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://lafamily014.github.io/iptv/icones tv/11.png" tvg-country="FR" group-title="TNT",TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/7ppyS5wIiz3YRYq.m3u8
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/7ppyS5wIiz3YRYq.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://lafamily014.github.io/iptv/icones tv/12.png" tvg-country="FR" group-title="TNT",Gulli
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
