@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="TNT",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Novo19.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="TNT",NOVO19
+#EXTINF:-1 tvg-chno="19" tvg-id="Novo19.fr" epg-s="4139" tvg-logo="https://lafamily014.github.io/iptv/icones tv/19.png" tvg-country="FR" group-title="TNT",NOVO19
 https://novo19.ouest-france.fr/embed/novo19?autoplay=1
 #https://viamotionhsi.netplus.ch/live/eds/novo19/browser-dash/novo19.mpd
 #https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
