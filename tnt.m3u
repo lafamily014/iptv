@@ -91,7 +91,8 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" epg-s="1400" tvg-logo="https://lafamily014.github.io/iptv/icones tv white/24.png" tvg-country="FR" group-title="TNT",RMC Découverte
-https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+https://jmp2.uk/stvp-FRBD4100008QS
+#https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" epg-s="1399" tvg-logo="https://lafamily014.github.io/iptv/icones tv white/25.png" tvg-country="FR" group-title="TNT",CHERIE 25
