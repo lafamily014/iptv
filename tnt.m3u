@@ -21,7 +21,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://lafamily014.github.io/iptv/icones tv/6.png" tvg-country="FR" group-title="TNT",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" epg-s="111" tvg-logo="https://lafamily014.github.io/iptv/icones tv/7.png" tvg-country="FR" group-title="TNT",Arte
