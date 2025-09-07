@@ -56,7 +56,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-logo="https://lafamily014.github.io/iptv/icones tv/15.png" tvg-country="FR" group-title="TNT",LCI
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 #https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/kFnCuGY1ZYywVZ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
