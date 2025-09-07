@@ -37,7 +37,8 @@ https://tvradiozap.eu/tools/np-m3u8.php/w9.m3u8
 
 
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://lafamily014.github.io/iptv/icones tv/10.png" tvg-country="FR" group-title="TNT",TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/COLqOkoQKNGvEmt9.m3u8
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/COLqOkoQKNGvEmt9.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://lafamily014.github.io/iptv/icones tv/11.png" tvg-country="FR" group-title="TNT",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/7ppyS5wIiz3YRYq.m3u8
@@ -52,12 +53,16 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-logo="https://lafamily014.github.io/iptv/icones tv/15.png" tvg-country="FR" group-title="TNT",LCI
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/kFnCuGY1ZYywVZ.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+#https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/U3084EzQxeKC/kFnCuGY1ZYywVZ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100" tvg-country="FR" group-title="TNT",franceinfo:
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" epg-s="458" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="TNT",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="TNT",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
