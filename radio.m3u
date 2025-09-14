@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,France Inter
+https://direct.radiofrance.fr/live/franceinter-midfi.mp3
+#EXTINF:-1,franceinfo
+https://direct.radiofrance.fr/live/franceinfo-midfi.mp3
+#EXTINF:-1,ici Paris Île-de-France
+https://direct.radiofrance.fr/live/fb1071-midfi.mp3
+#EXTINF:-1,France Culture
+https://direct.radiofrance.fr/live/franceculture-midfi.mp3
+#EXTINF:-1,France Musique
+https://direct.radiofrance.fr/live/francemusique-midfi.mp3
+#EXTINF:-1,FIP
+https://direct.radiofrance.fr/live/fip-midfi.mp3
+#EXTINF:-1,Mouv'
+https://direct.radiofrance.fr/live/mouv-midfi.mp3
+#EXTINF:-1,RFI
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
+#EXTINF:-1,Europe 1
+https://stream.europe1.fr/europe1.mp3
+#EXTINF:-1,Europe 2
+https://europe2.lmn.fm/europe2.mp3
+#EXTINF:-1,RFM
+https://stream.rfm.fr/rfm.mp3
+#EXTINF:-1,RTL
+https://streamer-01.rtl.fr/rtl-1-44-128
+#EXTINF:-1,RTL2
+https://streamer-01.rtl.fr/rtl2-1-44-128
+#EXTINF:-1,Fun Radio
+https://streamer-02.rtl.fr/fun-1-44-128
+#EXTINF:-1,NRJ
+https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
+#EXTINF:-1,Chérie FM
+https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3
+#EXTINF:-1,Rire et Chansons
+https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3
+#EXTINF:-1,Nostalgie
+https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3
+#EXTINF:-1,M Radio
+https://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1,Jazz Radio
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:-1,AirZen Radio
+https://streams.airzen.fr/airzen-radio-main-live
+#EXTINF:-1,Radio Classique
+https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+#EXTINF:-1,Radio Latina
+https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1,Skyrock
+https://icecast.skyrock.net/s/natio_mp3_128k
+#EXTINF:-1,Skyrock Klassiks
+https://icecast.skyrock.net/s/klassiks_mp3_128k
+#EXTINF:-1,BFM Radio
+https://audio.bfmtv.com/bfmradio_128.mp3
+#EXTINF:-1,BFM Business Radio
+https://audio.bfmtv.com/bfmbusiness_128.mp3
+#EXTINF:-1,RMC
+https://audio.bfmtv.com/rmcradio_128.mp3
+#EXTINF:-1,Sud Radio
+https://ice.creacast.com/sudradio
+#EXTINF:-1,TSF Jazz
+https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+#EXTINF:-1,Radio Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Radio FG
+https://stream.rcs.revma.com/wknqhm4yuchvv.mp3
+#EXTINF:-1,Radio Contact
+https://stream.rcs.revma.com/6gygqc1gy7uvv.mp3
+#EXTINF:-1,Melody Vintage Radio
+https://stream.rcs.revma.com/5a05fstup42vv.mp3
