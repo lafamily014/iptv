@@ -21,5 +21,5 @@ https://streaming.nrjaudio.fm/ougftcrb92oc?origine=fluxradios&aw_0_1st.station=N
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Radio Scoop Noël" epg-s="192" tvg-logo="https://lafamily014.github.io/iptv/radio/radio-scoop-noel.png" tvg-country="FR" group-title="Radio Noel",Radio Scoop Noël
-https://scoopnoel.ice.infomaniak.ch/radioscoop-noel-128.mp3
+http://scoopnoel.ice.infomaniak.ch/radioscoop-noel-64.aac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
