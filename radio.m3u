@@ -8,7 +8,7 @@ http://stream.rcs.revma.com/hdv48cq4ehuvv
 https://streaming.nrjaudio.fm/outpbe6ubafg?origine=fluxradios&aw_0_1st.station=CHERIE-NOEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-chno="3" tvg-id="DKL Noël" epg-s="192" tvg-logo="https://lafamily014.github.io/iptv/radio/DKL Noël.png" tvg-country="FR" group-title="Radio Noel",DKL Noël
+#EXTINF:-1 tvg-chno="3" tvg-id="DKL Noël" epg-s="192" tvg-logo="https://lafamily014.github.io/iptv/radio/DKL Noël.jpeg" tvg-country="FR" group-title="Radio Noel",DKL Noël
 http://stream.rcs.revma.com/6pwqeben0k0uv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
