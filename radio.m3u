@@ -12,6 +12,6 @@ https://streaming.nrjaudio.fm/outpbe6ubafg?origine=fluxradios&aw_0_1st.station=C
 http://stream.rcs.revma.com/6pwqeben0k0uv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Jazz Radio Christmas Jazz" epg-s="192" tvg-logo="https://lafamily014.github.io/iptv/radio/DKL Noël.png" tvg-country="FR" group-title="Radio Noel",Jazz Radio Christmas Jazz
+#EXTINF:-1 tvg-chno="4" tvg-id="Jazz Radio Christmas Jazz" epg-s="192" tvg-logo="https://lafamily014.github.io/iptv/radio/Jazz Radio Christmas Jazz.png" tvg-country="FR" group-title="Radio Noel",Jazz Radio Christmas Jazz
 http://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
